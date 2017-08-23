@@ -1,1 +1,1 @@
-# Curso-JavaScript-Super-Sayajin-N-vel-1-M-dulo-1-exerc-cios
+# Curso-JavaScript-Super-Sayajin-Nivel-1-Modulo-1-exercicios
